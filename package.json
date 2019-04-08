@@ -1,0 +1,27 @@
+{
+	"name": "tplink_kasa_gsi",
+	"version": "1.0.0",
+	"description": "GrünstromIndex - Decorator für TP Link Kasa HS110",
+	"keywords": [
+		"tplink"
+	],
+	"homepage": "https://github.com/energychain/tplink_kasa_gsi#readme",
+	"bugs": {
+		"url": "https://github.com/energychain/tplink_kasa_gsi/issues"
+	},
+	"license": "ISC",
+	"author": "STROMDAO <kontakt@stromdao.de>",
+	"main": "lib/gsi_tplink.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/energychain/tplink_kasa_gsi.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"dotenv": "^7.0.0",
+		"request": "^2.88.0",
+		"tplink-cloud-api": "^0.3.8"
+	}
+}
