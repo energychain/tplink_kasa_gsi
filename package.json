@@ -1,9 +1,16 @@
 {
 	"name": "tplink_kasa_gsi",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "GrünstromIndex - Decorator für TP Link Kasa HS110",
 	"keywords": [
-		"tplink"
+		"tplink",
+		"obis",
+		"corrently",
+		"gsi",
+		"blockchain",
+		"kasa",
+		"hs110",
+		"smartmeter"
 	],
 	"homepage": "https://github.com/energychain/tplink_kasa_gsi#readme",
 	"bugs": {
