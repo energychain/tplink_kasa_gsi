@@ -1,6 +1,6 @@
 {
 	"name": "tplink_kasa_gsi",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "GrünstromIndex - Decorator für TP Link Kasa HS110",
 	"keywords": [
 		"tplink",
